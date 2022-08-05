@@ -1,0 +1,14 @@
+{
+    "User": [
+        {
+            "username": "ringmirin",
+            "password": "Ring!@12",
+            "profile": {
+                "description": "myself",
+                "DOB": "1998",
+                "Gender": "female",
+                "Hobbies": "reading"
+            }
+        }
+    ]
+}
